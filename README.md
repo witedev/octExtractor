@@ -2,10 +2,10 @@
 
 A tool to extract metadata and images from binary OCT files.
 
-![thumbnail](https://github.com/witedev/octExtractor/assets/159720725/44cae964-5399-4bbc-9397-f76a9d4b41d2)
-
-![image](https://github.com/witedev/octExtractor/assets/159720725/a60bf954-7963-40cb-bc11-06f45a0ec337)
-
+<p align="center">
+  <img src="https://github.com/witedev/octExtractor/assets/159720725/44cae964-5399-4bbc-9397-f76a9d4b41d2" alt="thumbnail" width="400" />
+  <img src="https://github.com/witedev/octExtractor/assets/159720725/a60bf954-7963-40cb-bc11-06f45a0ec337" alt="image" width="400" />
+</p>
 
 ## Overview
 
@@ -33,5 +33,3 @@ To use octExtractor, run the following command:
 ```sh
 octExtractor.exe <path_to_oct_file> -e extension -o output
 ./octExtractor <path_to_oct_file> -e extension -o output
-
-
