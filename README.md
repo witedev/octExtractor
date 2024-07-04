@@ -2,6 +2,11 @@
 
 A tool to extract metadata and images from binary OCT files.
 
+![thumbnail](https://github.com/witedev/octExtractor/assets/159720725/44cae964-5399-4bbc-9397-f76a9d4b41d2)
+
+![image](https://github.com/witedev/octExtractor/assets/159720725/a60bf954-7963-40cb-bc11-06f45a0ec337)
+
+
 ## Overview
 
 octExtractor is a high-performance tool written in Rust, designed to efficiently extract metadata and images from binary OCT (Optical Coherence Tomography) files. Its cross-platform compatibility ensures it works seamlessly on Windows, macOS, and Linux.
@@ -26,6 +31,7 @@ octExtractor is a high-performance tool written in Rust, designed to efficiently
 To use octExtractor, run the following command:
 
 ```sh
-./octExtractor <path_to_oct_file> -e extension -o output
 octExtractor.exe <path_to_oct_file> -e extension -o output
+./octExtractor <path_to_oct_file> -e extension -o output
+
 
