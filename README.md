@@ -76,7 +76,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any questions or suggestions, please open an issue on GitHub or contact me at [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-blanco-p%C3%A9rez-9843b2205/)
 
 ## Credits
-I want to give credit to the [inspiring repository](https://github.com/marksgraham/OCT-Converter/) for providing valuable ideas and inspiration for this project.
+I want to give credit to this [inspiring repository](https://github.com/marksgraham/OCT-Converter/) for providing valuable ideas for this project.
 
 
 
