@@ -27,7 +27,7 @@ To use octExtractor, run the following command:
 
 ```sh
 octExtractor.exe <path_to_fda_file> -e extension -o output
-./octExtractor <path_to_fda_file> -e extension -o output
+./octExtractor <path_to_fda_file> -e extension
 ```
 
 
@@ -47,6 +47,16 @@ octExtractor.exe <path_to_fda_file> -e extension -o output
 -h, --help
 -v, --version
 ```
+
+## Usage
+
+To use octExtractor, run the following command:
+
+```sh
+octExtractor.exe <path_to_fda_file> -e extension -o output
+./octExtractor <path_to_fda_file> -e extension
+```
+
 
 ## Examples
 
