@@ -73,4 +73,4 @@ octExtractor.exe sample.fda -e tiff -o \path\to\output
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ##  Contact
-For any questions or suggestions, please open an issue on GitHub or contact me at blancoperezjesus@gmail.com.
+For any questions or suggestions, please open an issue on GitHub or contact me at (https://www.linkedin.com/in/jes%C3%BAs-blanco-p%C3%A9rez-9843b2205/)
