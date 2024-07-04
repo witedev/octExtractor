@@ -1,6 +1,6 @@
 # octExtractor v0.1.0 Release
 
-We are excited to announce the release of octExtractor v0.1.0! A tool to extract metadata and images from binary OCT files.
+I am excited to announce the release of octExtractor v0.1.0! A tool to extract metadata and images from binary OCT files.
 <p align="center">
   <img src="https://github.com/witedev/octExtractor/assets/159720725/4f56eb53-53fd-4426-9d49-9837e28c0afd" alt="thumbnail" width="200" />
   <img src="https://github.com/witedev/octExtractor/assets/159720725/a60bf954-7963-40cb-bc11-06f45a0ec337" alt="image" width="200" />
@@ -73,4 +73,11 @@ octExtractor.exe sample.fda -e tiff -o \path\to\output
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ##  Contact
-For any questions or suggestions, please open an issue on GitHub or contact me at (https://www.linkedin.com/in/jes%C3%BAs-blanco-p%C3%A9rez-9843b2205/)
+For any questions or suggestions, please open an issue on GitHub or contact me at [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-blanco-p%C3%A9rez-9843b2205/)
+
+## Credits
+I want to give credit to the [inspiring repository](https://github.com/marksgraham/OCT-Converter/) for providing valuable ideas and inspiration for this project.
+
+
+
+
