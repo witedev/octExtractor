@@ -22,10 +22,10 @@ octExtractor.exe <path_to_fda_file> -e extension -o output
 
 ## Supported Output Extensions
 
-- png
-- tiff
-- jpg
-- bmp
+- .png
+- .tiff
+- .jpg
+- .bmp
 
 
 ## Command-Line Options
