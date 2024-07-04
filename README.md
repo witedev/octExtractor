@@ -1,38 +1,66 @@
-# octExtractor
+# octExtractor v0.1.0 Release
 
-A tool to extract metadata and images from binary OCT files.
-
+We are excited to announce the release of octExtractor v0.1.0! A tool to extract metadata and images from binary OCT files.
 <p align="center">
   <img src="https://github.com/witedev/octExtractor/assets/159720725/4f56eb53-53fd-4426-9d49-9837e28c0afd" alt="thumbnail" width="200" />
   <img src="https://github.com/witedev/octExtractor/assets/159720725/a60bf954-7963-40cb-bc11-06f45a0ec337" alt="image" width="200" />
   <img src="https://github.com/witedev/octExtractor/assets/159720725/cefb1cb8-ae80-41a1-bebf-987e6c361665" alt="image" width="200" />
-
-
 </p>
 
-## Overview
+## What's New in v0.1.0
 
-octExtractor is a high-performance tool written in Rust, designed to efficiently extract metadata and images from binary OCT (Optical Coherence Tomography) files. Its cross-platform compatibility ensures it works seamlessly on Windows, macOS, and Linux.
+### Initial Release Highlights
 
-## Features
-
-- **Fast and Efficient**: Built with Rust for optimal performance and speed.
-- **Cross-Platform**: Compatible with Windows, macOS, and Linux.
-- **Easy to Use**: Simple command-line interface for straightforward operation.
-- **Flexible Output**: Extracts both metadata and images from OCT files.
+- **File Support**: This initial version of octExtractor supports extraction from `.fda` files only.
+- **High Performance**: Built with Rust, ensuring fast and efficient processing of OCT files.
+- **Cross-Platform Compatibility**: Works seamlessly on Windows, macOS, and Linux.
+- **Flexible Output**: Extract both metadata and images from OCT files with ease.
+- **User-Friendly Interface**: Simple command-line interface for straightforward usage.
 
 ## Installation
 
-### Download Pre-built Binaries
-
-1. Go to the [Releases](https://github.com/witedev/octExtractor/releases) page.
-2. Download the appropriate binary for your operating system (Windows, macOS, or Linux).
-3. Extract the downloaded file to a directory of your choice.
+Download the pre-built binaries for your operating system from the [Releases](https://github.com/witedev/octExtractor/releases) page. Extract the downloaded file to a directory of your choice.
 
 ## Usage
 
 To use octExtractor, run the following command:
 
 ```sh
-octExtractor.exe <path_to_oct_file> -e extension -o output
-./octExtractor <path_to_oct_file> -e extension -o output
+octExtractor.exe <path_to_fda_file> -e extension -o output
+./octExtractor <path_to_fda_file> -e extension -o output
+```
+
+
+## Supported Output Extensions
+
+- png
+- tiff
+- jpg
+- bmp
+
+
+## Command-Line Options
+
+```sh
+-o, --output <output_dir>: Specify the output directory for extracted files (default is the current directory).
+-e, --extension <extension>: Specify the output file format (supported: png, tiff, jpg, bmp).
+-h, --help
+-v, --version
+```
+
+## Examples
+
+Extract data from an .fda file and save it as TIFF images in the default directory:
+
+```sh
+octExtractor.exe sample.fda -e tiff -o \path\to\output
+./octExtractor sample.fda -e tiff -o /path/to/output
+```
+
+##  We welcome contributions! Please open an issue or submit a pull request on GitHub.
+
+##   License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+##  Contact
+For any questions or suggestions, please open an issue on GitHub or contact me at blancoperezjesus@gmail.com.
