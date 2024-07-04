@@ -11,9 +11,6 @@ I am excited to announce the release of octExtractor! A tool to extract metadata
 
 Download the pre-built binaries for your operating system from the [Releases](https://github.com/witedev/octExtractor/releases) page. Extract the downloaded file to a directory of your choice.
 
-## Credits
-I want to give credit to this [inspiring repository](https://github.com/marksgraham/OCT-Converter/) for providing valuable ideas for this project.
-
 ## Usage
 
 To use octExtractor, run the following command:
@@ -44,6 +41,9 @@ octExtractor.exe <path_to_fda_file> -e extension -o output
 
 4 July 2024
 - [What's New in v0.1.0](https://github.com/witedev/octExtractor/releases/tag/v0.1.0) 
+
+## Contributions
+I want to give credit to this [inspiring repository](https://github.com/marksgraham/OCT-Converter/) for providing valuable ideas for this project.
 
 
 ##   License
