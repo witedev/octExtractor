@@ -1,0 +1,144 @@
+{
+  "PARAM_OBS_02": {
+    "values": "[1, 65535, 65535]",
+    "color_temperature": "Auto",
+    "color_temperature_value": "0",
+    "camera_model": "acA2500",
+    "jpeg_quality": ""
+  },
+  "MAIN_MODULE_INFO": {
+    "file_version_4": "60192",
+    "software_name": "OCTGrabber.exe",
+    "file_version_1": "1",
+    "file_version_2": "27",
+    "file_version_3": "0",
+    "string": ""
+  },
+  "FAST_Q2_INFO": {
+    "various_quality_statistics": "[0.0, 46.39746, 85.465454, 89.15625, 53.528793, 361.41916]"
+  },
+  "ALIGN_INFO": {
+    "w": "256",
+    "unlabeled_3": "50",
+    "n_size": "0",
+    "unlabeled_1": "3",
+    "keyframe_1": "0",
+    "unlabeled_4": "771",
+    "keyframe_2": "0",
+    "aligndata": "None",
+    "unlabeled_2": "0"
+  },
+  "EFFECTIVE_SCAN_RANGE": {
+    "fundus_bounding_box": "[856, 550, 1744, 1416]",
+    "trc_bounding_box": "[211, 133, 429, 347]"
+  },
+  "SUB_CONTOUR_INFO": {},
+  "PARAM_EN_FACE": {},
+  "SUB_TOPQEXT_INFO": {},
+  "REF_IMG_SCAN": {},
+  "REPORT_INFO": {
+    "zeros": "[1, 0, 0, 0, 0, 0, 0]"
+  },
+  "SUB_IMG_TRC_02": {},
+  "FDA_DISC_SEGMENTATION": {},
+  "CONTOUR_INFO": {
+    "method": "0",
+    "size": "262144",
+    "format": "0",
+    "width": "512",
+    "id": "MULTILAYERS_1",
+    "height": "256"
+  },
+  "CAPTURE_INFO_02": {
+    "eye": "LEFT",
+    "cap_date": "\"2024-6-28 14:1:51\"",
+    "scan_mode": "2",
+    "label": "",
+    "session_id": "0"
+  },
+  "SUB_FAST_Q2_INFO": {},
+  "REGIST_INFO": {
+    "u8_value": "0",
+    "bounding_box_trc": "[102, 80, 538, 400]",
+    "zeros": "[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",
+    "bounding_box_fundus": "[416, 342, 2184, 1627]",
+    "f64_values": "[0.35183919253053697, 0.5449227174414087, 0.35183919253053697, 0.5449227174414087]",
+    "u32_values_1": "[0, 0]",
+    "u8_string": "11.0.1.60507"
+  },
+  "IMG_EN_FACE": {
+    "empty": "true"
+  },
+  "THUMBNAIL": {
+    "size": "135654"
+  },
+  "IMG_MOT_COMP_03": {
+    "scan_mode": "0",
+    "size": "0",
+    "height": "992",
+    "number_slices": "9",
+    "format": "0",
+    "width": "512",
+    "bits_per_pixel": "16"
+  },
+  "FOCUS_MOTOR_INFO": {},
+  "GLA_LITTMANN_01": {
+    "u32_values": "[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",
+    "u32_value_2": "1",
+    "u32_value_1": "4294967295"
+  },
+  "SCAN_POS_COMP_DATA": {},
+  "FDA_FILE_INFO": {
+    "0x2": "2",
+    "0x3e8": "12000",
+    "version": "11.0.1.60507"
+  },
+  "SUB_REGIST_INFO": {},
+  "PARAM_TRC_02": {},
+  "PATIENT_INFO_03": {
+    "given_name": "�\u0016�6�\u0007q�\u00167w\u0013\u0013����\u0016A�g�ac��P�a",
+    "sex": "Unknown",
+    "birth_date": "47932, 3606, 41762",
+    "patient_id": "�\u001a@&<\u00186g\u000b�?S���A̫8�\f�\u00023�\u0011�\u0019�\u000eL�",
+    "surname": "u?\u0015]�m;~x\u0010���w9y��zT@1\u0002��\u0003<Ё\u001f��"
+  },
+  "CONTOUR_MASK_INFO": {
+    "empty": "true"
+  },
+  "SUB_PARAM_SCAN_04": {},
+  "HW_INFO_03": {
+    "eq_calib_minute": "0",
+    "spect_calib_minute": "0",
+    "eq_calib_hour": "0",
+    "unknown": "",
+    "rom_ver": "",
+    "spect_calib_month": "0",
+    "serial_number": "981486",
+    "eq_calib_day": "0",
+    "eq_calib_year": "0",
+    "spect_calib_day": "0",
+    "model_name": "Triton000",
+    "eq_calib_month": "0",
+    "spect_calib_year": "0",
+    "spect_calib_hour": "0",
+    "spect_sn": ""
+  },
+  "TOPQEXT_INFO": {
+    "empty": "true"
+  },
+  "PATIENTEXT_INFO": {},
+  "SUB_IMG_JPEG": {},
+  "PARAM_SCAN_04": {
+    "z_resolution_um": "2.585934",
+    "base_pos": "1",
+    "polar": "2000",
+    "y_dimension_mm": "9",
+    "fixation": "52044035",
+    "x_dimension_mm": "12",
+    "comp_eff_2": "0",
+    "mirror_pos": "1584",
+    "comp_eff_3": "0",
+    "used_calib_data": "1"
+  },
+  "IMG_PROJECTION": {}
+}
