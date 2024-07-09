@@ -9,7 +9,7 @@ I am excited to announce the release of octExtractor! A tool to extract metadata
 
 ## Installation
 
-- Download the pre-built binaries for your operating system from the [Releases][(https://github.com/witedev/octExtractor/tree/main/releases)] page. 
+- Download the pre-built binaries for your operating system from the [Releases](https://github.com/witedev/octExtractor/tree/main/releases) page. 
 - Extract the downloaded file to a directory of your choice.
 
 ## Usage
