@@ -40,7 +40,7 @@ octExtractor.exe <path_to_fda_file> -e extension -o output
 
 ## Updates
 
-4 July 2024
+9 July 2024
 - [What's New in v0.1.0](https://github.com/witedev/octExtractor/releases/tag/v0.1.0) 
 
 ## Contributions
